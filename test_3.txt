@@ -1,0 +1,5 @@
+Ivanov:50000
+Petrov:15000
+Sidorova:21000
+Popova:16000
+Orlov:30000
